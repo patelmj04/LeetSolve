@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/patelmj04/LeetSolve/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/patelmj04/LeetSolve/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
