@@ -24,4 +24,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/patelmj04/LC-ProblemSolvified/tree/master/0257-binary-tree-paths) |
+## Array
+|  |
+| ------- |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/patelmj04/LeetSolve/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 <!---LeetCode Topics End-->
