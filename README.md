@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/patelmj04/LeetSolve/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Database
 |  |
@@ -48,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1908-recyclable-and-low-fat-products](https://github.com/patelmj04/LeetSolve/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/patelmj04/LeetSolve/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/patelmj04/LeetSolve/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
