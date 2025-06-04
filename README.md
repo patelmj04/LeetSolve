@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/patelmj04/LC-ProblemSolvified/tree/master/0257-binary-tree-paths) |
+| [0868-push-dominoes](https://github.com/patelmj04/LeetSolve/tree/master/0868-push-dominoes) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,4 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/patelmj04/LeetSolve/tree/master/0868-push-dominoes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/patelmj04/LeetSolve/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
