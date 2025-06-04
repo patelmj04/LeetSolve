@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/patelmj04/LeetSolve/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Database
 |  |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -71,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
