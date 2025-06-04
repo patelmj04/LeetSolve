@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/patelmj04/LeetSolve/tree/master/2048-build-array-from-permutation) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/patelmj04/LeetSolve/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/patelmj04/LeetSolve/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Database
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/patelmj04/LeetSolve/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +91,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/patelmj04/LeetSolve/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/patelmj04/LeetSolve/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/patelmj04/LeetSolve/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
