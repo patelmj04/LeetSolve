@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/patelmj04/LeetSolve/tree/master/0263-ugly-number) |
 ## Number Theory
 |  |
 | ------- |
