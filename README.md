@@ -167,4 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/patelmj04/LeetSolve/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/patelmj04/LeetSolve/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
