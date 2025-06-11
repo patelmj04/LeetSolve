@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/patelmj04/LeetSolve/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
@@ -157,4 +158,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/patelmj04/LeetSolve/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
