@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/patelmj04/LeetSolve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/patelmj04/LeetSolve/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/patelmj04/LeetSolve/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -170,9 +173,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/patelmj04/LeetSolve/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/patelmj04/LeetSolve/tree/master/0278-first-bad-version) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
