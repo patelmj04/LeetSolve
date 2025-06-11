@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/patelmj04/LeetSolve/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/patelmj04/LeetSolve/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/patelmj04/LeetSolve/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/patelmj04/LeetSolve/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/patelmj04/LeetSolve/tree/master/0577-employee-bonus) |
