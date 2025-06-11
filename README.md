@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0283-move-zeroes) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/patelmj04/LeetSolve/tree/master/0868-push-dominoes) |
 | [2551-apply-operations-to-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
