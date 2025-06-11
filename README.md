@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/patelmj04/LeetSolve/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/patelmj04/LeetSolve/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -191,4 +192,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
