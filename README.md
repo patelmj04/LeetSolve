@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/patelmj04/LeetSolve/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/patelmj04/LeetSolve/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/patelmj04/LeetSolve/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/patelmj04/LeetSolve/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Database
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/patelmj04/LeetSolve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/patelmj04/LeetSolve/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
 |  |
 | ------- |
