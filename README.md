@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/patelmj04/LeetSolve/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/patelmj04/LeetSolve/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
@@ -206,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/patelmj04/LeetSolve/tree/master/0303-range-sum-query-immutable) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/patelmj04/LeetSolve/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
