@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/patelmj04/LC-ProblemSolvified/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/patelmj04/LeetSolve/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/patelmj04/LeetSolve/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/patelmj04/LeetSolve/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
