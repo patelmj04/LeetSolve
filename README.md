@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/patelmj04/LeetSolve/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/patelmj04/LeetSolve/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/patelmj04/LeetSolve/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/patelmj04/LeetSolve/tree/master/0342-power-of-four) |
 | [2509-minimize-xor](https://github.com/patelmj04/LeetSolve/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
@@ -218,4 +220,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/patelmj04/LeetSolve/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/patelmj04/LeetSolve/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
