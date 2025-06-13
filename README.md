@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/patelmj04/LeetSolve/tree/master/0303-range-sum-query-immutable) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/patelmj04/LeetSolve/tree/master/0303-range-sum-query-immutable) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/patelmj04/LeetSolve/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
@@ -200,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/patelmj04/LeetSolve/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
