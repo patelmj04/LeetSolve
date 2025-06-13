@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/patelmj04/LeetSolve/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2551-apply-operations-to-an-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/patelmj04/LeetSolve/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/patelmj04/LeetSolve/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/patelmj04/LeetSolve/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/patelmj04/LeetSolve/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/patelmj04/LeetSolve/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/patelmj04/LeetSolve/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/patelmj04/LeetSolve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Counting
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/patelmj04/LeetSolve/tree/master/0278-first-bad-version) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/patelmj04/LeetSolve/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Interactive
 |  |
 | ------- |
