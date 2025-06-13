@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/patelmj04/LeetSolve/tree/master/0338-counting-bits) |
 | [0806-domino-and-tromino-tiling](https://github.com/patelmj04/LeetSolve/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/patelmj04/LeetSolve/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/patelmj04/LeetSolve/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/patelmj04/LeetSolve/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
