@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2509-minimize-xor](https://github.com/patelmj04/LeetSolve/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/patelmj04/LeetSolve/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/patelmj04/LeetSolve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/patelmj04/LeetSolve/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/patelmj04/LeetSolve/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/patelmj04/LeetSolve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/patelmj04/LeetSolve/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/patelmj04/LeetSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/patelmj04/LeetSolve/tree/master/0342-power-of-four) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/patelmj04/LeetSolve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Number Theory
 |  |
 | ------- |
