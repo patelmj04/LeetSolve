@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/patelmj04/LeetSolve/tree/master/0342-power-of-four) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/patelmj04/LeetSolve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/patelmj04/LeetSolve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/patelmj04/LeetSolve/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -237,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0326-power-of-three](https://github.com/patelmj04/LeetSolve/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/patelmj04/LeetSolve/tree/master/0342-power-of-four) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/patelmj04/LeetSolve/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
