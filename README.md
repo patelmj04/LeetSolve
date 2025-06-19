@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/patelmj04/LeetSolve/tree/master/2048-build-array-from-permutation) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/patelmj04/LeetSolve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2551-apply-operations-to-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2551-apply-operations-to-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/patelmj04/LeetSolve/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/patelmj04/LeetSolve/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/patelmj04/LeetSolve/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/patelmj04/LeetSolve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/patelmj04/LeetSolve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/patelmj04/LeetSolve/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/patelmj04/LeetSolve/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/patelmj04/LeetSolve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/patelmj04/LeetSolve/tree/master/0268-missing-number) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/patelmj04/LeetSolve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Brainteaser
 |  |
 | ------- |
