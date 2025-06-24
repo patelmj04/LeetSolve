@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/patelmj04/LeetSolve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1524-string-matching-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/1524-string-matching-in-an-array) |
 | [2048-build-array-from-permutation](https://github.com/patelmj04/LeetSolve/tree/master/2048-build-array-from-permutation) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/patelmj04/LeetSolve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2551-apply-operations-to-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2551-apply-operations-to-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/patelmj04/LeetSolve/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/patelmj04/LeetSolve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/patelmj04/LeetSolve/tree/master/0344-reverse-string) |
 | [0868-push-dominoes](https://github.com/patelmj04/LeetSolve/tree/master/0868-push-dominoes) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/patelmj04/LeetSolve/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
